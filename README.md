@@ -6,12 +6,19 @@ This visualisation analyzes the bikesharing data from Citibike's NYC bikesharing
 ## Results
 
 Checkout times for users: On average, users spend no more then 50 minutes on a trip. Trips last about 15 minutes.
+
 Checkout times by gender: Males spend the most amount of time per trip. 
+
 Trips by weekday per hour: Most trips are made in the evening between 5 and 7pm on Thursday. 
+
 Trips by gender: Males complete the most trips. 
+
 User trips by gender by weekday: Male subscribers make the most trips.  
+
 August peak hours: Over the month of August, peak hours are between 5 and 7pm. 
+
 Gender breakdown: Males make up the biggest portion of users. 
+
 Customer by usertype: Subscribers make up the biggest portion of users. 
 
 ## Summary 
