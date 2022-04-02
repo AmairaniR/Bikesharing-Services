@@ -5,21 +5,29 @@ This visualisation analyzes the bikesharing data from Citibike's NYC bikesharing
 
 ## Results
 
-[Checkout times for users](https://public.tableau.com/app/profile/amairani.rosario/viz/Citibike-bikesharing/CheckoutTimesforUsers?publish=yes): On average, users spend no more then 50 minutes on a trip. Trips last about 15 minutes.
+Checkout Times for Users
+![Checkout times for users](https://github.com/AmairaniR/Bikesharing-Services/blob/main/images/checkout_times_for_users.png) On average, users spend no more then 50 minutes on a trip. Trips last about 15 minutes.
 
-[Checkout times by gender](https://public.tableau.com/app/profile/amairani.rosario/viz/Citibike-bikesharing/CheckoutTimesbyGender?publish=yes): Males spend the most amount of time per trip. 
+Checkout Times by Gender
+![Checkout times by gender](https://github.com/AmairaniR/Bikesharing-Services/blob/main/images/checkout_times_by_gender.png) Males spend the most amount of time per trip. 
 
-[Trips by weekday per hour](https://public.tableau.com/app/profile/amairani.rosario/viz/Citibike-bikesharing/TripsbyWeekdayperHour?publish=yes): Most trips are made in the evening between 5 and 7pm on Thursday. 
+Trips by Weekday per Hour
+![Trips by weekday per hour](https://github.com/AmairaniR/Bikesharing-Services/blob/main/images/trips_by_weekday_per_hour.png) Most trips are made in the evening between 5 and 7pm on Thursday. 
 
-[Trips by gender](https://public.tableau.com/app/profile/amairani.rosario/viz/Citibike-bikesharing/TripsbyGenderWeekdayperHour?publish=yes): Males complete the most trips. 
+Trips by Gender
+![Trips by gender](https://github.com/AmairaniR/Bikesharing-Services/blob/main/images/trips_by_gender.png) Males complete the most trips. 
 
-[User trips by gender by weekday](https://public.tableau.com/app/profile/amairani.rosario/viz/Citibike-bikesharing/UserTripsbyGenderbyWeekday?publish=yes): Male subscribers make the most trips.  
+User Trips by Gender by Weekday
+![User trips by gender by weekday](https://github.com/AmairaniR/Bikesharing-Services/blob/main/images/user_trips_by_gender_by_weekday.png): Male subscribers make the most trips.  
 
-[August peak hours](https://public.tableau.com/app/profile/amairani.rosario/viz/Citibike-bikesharing/AugustPeakHours?publish=yes): Over the month of August, peak hours are between 5 and 7pm. 
+August Peak Hours
+![August peak hours](https://github.com/AmairaniR/Bikesharing-Services/blob/main/images/august_peak_hours.png) Over the month of August, peak hours are between 5 and 7pm. 
 
-[Gender breakdown](https://public.tableau.com/app/profile/amairani.rosario/viz/Citibike-bikesharing/GenderBreakdown?publish=yes): Males make up the biggest portion of users. 
+Gender Breakdown
+![Gender breakdown](https://github.com/AmairaniR/Bikesharing-Services/blob/main/images/gender_breakdown.png) Males make up the biggest portion of users. 
 
-[Customer by usertype](https://public.tableau.com/app/profile/amairani.rosario/viz/Citibike-bikesharing/CustomersbyUsertype?publish=yes): Subscribers make up the biggest portion of users. 
+Customer by Usertype
+![Customer by usertype](https://github.com/AmairaniR/Bikesharing-Services/blob/main/images/customers_by_usertype.png) Subscribers make up the biggest portion of users. 
 
 ## Summary 
 
